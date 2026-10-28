@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/grafana-gitsync-dns-rebind">grafana-gitsync-dns-rebind</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/grafana-gitsync-dns-rebind"><strong>https://abraxaslabs.tech/research/grafana-gitsync-dns-rebind</strong></a>
+</p>
+
 
 # grafana-gitsync-dns-rebind
 
